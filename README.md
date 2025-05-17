@@ -1,24 +1,19 @@
 ## TLDR
-- Researcher for psychology and computer science.
+- Researcher for psychology and computer science in Japan.
 
 ## Skills
 - Affective Computing
-- Bayesian
-- Machine Learning
+- Bayesian modeling, Machine Learning
 - Frontend Dev
-- TypeScript, JavaScript, C#, Python
+- TypeScript, JavaScript, Python, C#, Rust, C++
 
 ## Career
 ### Experience
-| Organization    | Period (YYYY-YYYY) | Title        |
-|-----------------|--------------------|--------------|
-| Freelance       | 2014 - 2020        | Web Engineer |
-| AZAPA Co., LTD. | 2020 - 2022        | Researcher   |
-| Olive Inc.      | 2022 - 2025        | Director     |
-| Yata Inc.       | 2025 -             | Founder      |
+* Freelance (2014-2020) Web & Software Engineer
+* AZAPA Co., LTD. (2020-2022) Researcher & Consultant
+* Olive Inc. (2022-2025) Director of Science/Research
+* Yata Inc. (2025-) Founder
 
 ### Education
-| Organization        | Period (YYYY-YYYY) | Title                                           |
-|---------------------|--------------------|-------------------------------------------------|
-| Shizuoka University | 2016 - 2020        | Bachelor (Engineering), Mechanical engineering  |
-| Chiba University    | 2024 - 2027        | PhD (Engineering), Informatics and Data Science |
+* Shizuoka University (2016-2020) Bachelor (Engineering), Mechanical engineering
+* Chiba University (2024-) PhD (Engineering), Informatics and Data Science
