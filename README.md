@@ -1,16 +1,24 @@
-## Hi there 👋
+## TLDR
+- Researcher for psychology and computer science.
 
-<!--
-**toshiki-higa/toshiki-higa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Affective Computing
+- Bayesian
+- Machine Learning
+- Frontend Dev
+- TypeScript, JavaScript, C#, Python
 
-Here are some ideas to get you started:
+## Career
+### Experience
+| Organization    | Period (YYYY-YYYY) | Title        |
+|-----------------|--------------------|--------------|
+| Freelance       | 2014 - 2020        | Web Engineer |
+| AZAPA Co., LTD. | 2020 - 2022        | Researcher   |
+| Olive Inc.      | 2022 - 2025        | Director     |
+| Yata Inc.       | 2025 -             | Founder      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+| Organization        | Period (YYYY-YYYY) | Title                                           |
+|---------------------|--------------------|-------------------------------------------------|
+| Shizuoka University | 2016 - 2020        | Bachelor (Engineering), Mechanical engineering  |
+| Chiba University    | 2024 - 2027        | PhD (Engineering), Informatics and Data Science |
